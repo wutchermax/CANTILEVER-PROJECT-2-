@@ -1,0 +1,19 @@
+frontend/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   ├── NewsCard.js
+│   │   ├── NewsList.js
+│   │   ├── Filter.js
+│   │   ├── Login.js
+│   │   ├── Register.js
+│   ├── pages/
+│   │   ├── HomePage.js
+│   │   ├── LoginPage.js
+│   │   ├── RegisterPage.js
+│   ├── App.js
+│   ├── index.js
+│   ├── App.css
+│   └── index.css
+└── package.json
