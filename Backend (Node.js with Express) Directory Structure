@@ -1,0 +1,15 @@
+backend/
+├── src/
+│   ├── controllers/
+│   │   ├── authController.js
+│   │   ├── newsController.js
+│   ├── models/
+│   │   ├── User.js
+│   ├── routes/
+│   │   ├── authRoutes.js
+│   │   ├── newsRoutes.js
+│   ├── middleware/
+│   │   └── authMiddleware.js
+│   ├── index.js
+│   └── config.js
+└── package.json
